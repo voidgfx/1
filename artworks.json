@@ -1,0 +1,22 @@
+{
+  "artworks": [
+    {
+      "id": "1",
+      "title": "لوگوی PvP",
+      "desc": "طراحی اختصاصی برای سرورهای PvP با سبک ماینکرفتی",
+      "icon": "⚔️",
+      "category": "لوگو",
+      "tags": ["PvP", "ماینکرفت"],
+      "image": null
+    },
+    {
+      "id": "2",
+      "title": "لوگوی SkyBlock",
+      "desc": "طرح مینیمال و مدرن برای حالت SkyBlock",
+      "icon": "☁️",
+      "category": "لوگو",
+      "tags": ["SkyBlock", "مینیمال"],
+      "image": null
+    }
+  ]
+}
